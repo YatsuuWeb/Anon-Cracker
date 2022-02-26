@@ -2,4 +2,4 @@
 
 
 
-<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/830129144476991508/943871781956100168/photofunky.gif"><img src="https://cdn.discordapp.com/attachments/943994548038828062/944010674923794462/e7a36b6025b1a178066c108cda94119d.gif" data-canonical-src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/" style="max-width: 100%;"></a>
+<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/830129144476991508/943871781956100168/photofunky.gif"><img src="https://cdn.discordapp.com/attachments/946461146062393374/947157414220800070/KNiu.gif" data-canonical-src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/" style="max-width: 100%;"></a>
